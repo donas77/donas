@@ -2,3 +2,5 @@ newfile
 server add
 add text from client
 client2
+add text from client
+add server
