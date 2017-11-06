@@ -6,11 +6,3 @@ fsd
 f
 sdf
 sdfsdf:
-
-dddddddddddddddddddddddd
-from client
-from client2
-from server
-from client3
-from server2
-from client4
