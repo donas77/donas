@@ -1,14 +1,1 @@
-bbb
-ccc
-ddd
-dsdfs
-fsdf
-sd
-fsd
-fsd
-f
-sdf
-sdfsdf:
-client1
 server1
-aaaserver
